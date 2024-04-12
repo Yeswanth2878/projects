@@ -1,0 +1,10 @@
+This system will provide facility to the user to search Residential and Commercial property and 
+view property. This system will provide facility to view the property by admin and user. User
+will able to upload the property information to the site and able to manage it. This system will
+provide facility to the user to fill up their requirement and according to their Requirement Admin 
+can add the Requirement property. This system will provide facility to the user to publish
+advertise to the Site and view. This system will provide facility to the user to feedback to the site.
+
+
+his Portal is designed to provide the facility where the customer can easily buy or sell their properties such as land, house, and shop. The user just has to register on this web portal, then the user can easily upload information of their properties to sell and also search properties to buy. The system contains a search filter which helps users to search property in a certain city, area or state. While buying Property such as house, land, and shops as per user’s requirements, the user can view the details of each and every property and if the user is interested then he/she can contact to the owner of the property. Likewise, while selling property in different areas & requirements. The user can search for all kinds of properties here. It also allows the user to view details of each and every property. From Admin panel, admin can also search property and manage the latest property news, users, state, city, area, category and receive feedback from the customers. This web portal makes easier to the user for buying and selling properties online. This project is not difficult to operate and understood by the users.
+
